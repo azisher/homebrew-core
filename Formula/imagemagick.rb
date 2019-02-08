@@ -29,6 +29,7 @@ class Imagemagick < Formula
   depends_on "openjpeg"
   depends_on "webp"
   depends_on "xz"
+  depends_on "librsvg"
 
   skip_clean :la
 
